@@ -1,0 +1,11 @@
+body {
+    text-align: center;
+    background-color: #f8f8f8;
+}
+
+img {
+    width: 150px;
+    height: 150px;
+    margin: 5px;
+    object-fit: cover;
+}
